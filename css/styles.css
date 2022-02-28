@@ -1,0 +1,345 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+span {
+  color: gold;
+}
+
+
+h3 {
+  color: white;
+  font-size: 65px;
+}
+
+h2 {
+  color: gold;
+  font-size: 35px;
+  padding: 10px 15px;
+  margin-top: 10px;
+  margin-left: 650px;
+}
+
+
+h4 {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  margin-left: 550px;
+
+}
+
+h5 {
+  color: gold;
+  font-size: 35px;
+  padding: 10px 15px;
+  margin-top: 10px;
+  margin-left: 650px;
+
+}
+
+.content-text {
+  padding-top: 10px;
+  padding-bottom: 30px;
+  background-color: #191919;
+}
+
+.home-effect {
+  color: gold;
+}
+
+h1 {
+  color: gold;
+  font-size: 50px;
+  padding: 10px 15px;
+  margin-top: 100px;
+  margin-left: 585px;
+}
+
+img {
+  color: #191919;
+  width: 20%;
+  padding: 15px 95px;
+  padding-top: 100px;
+}
+
+
+
+.button-1 {
+  background-color: gold;
+  text-decoration: none;
+  border: 2px solid transparent;
+  font-weight: bold;
+  padding: 15px 18px;
+  border-radius: 30px;
+  transition: .4s;
+  margin-top: 45px;
+  color: #000;
+  margin-left: 180px;
+  position: relative;
+}
+
+.button-1:hover {
+  transform: scale(1.2);
+}
+
+.button-2 {
+  background-color: gold;
+  text-decoration: none;
+  border: 2px solid transparent;
+  font-weight: bold;
+  padding: 15px 18px;
+  border-radius: 30px;
+  margin-top: 45px;
+  color: #000;
+  margin-left: 180px;
+  position: relative;
+  left: 150px;
+}
+
+.button-2:hover {
+  transform: scale(1.2);
+}
+
+.button-3 {
+  background-color: gold;
+  text-decoration: none;
+  border: 2px solid transparent;
+  font-weight: bold;
+  padding: 15px 18px;
+  border-radius: 30px;
+  transition: .4s;
+  margin-top: 45px;
+  color: #000;
+  margin-left: 180px;
+  position: relative;
+  left: 320px;
+}
+
+.button-3:hover {
+  transform: scale(1.2);
+}
+
+
+.cr7-edit {
+  width: 16.5%;
+
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 45px;
+  padding-left: 8%;
+  padding-right: 8%;
+  background-color: #000;
+  padding-bottom: 20px;
+}
+
+nav ul li {
+  list-style: none;
+  display: inline-block;
+  padding: 10px 15px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+
+nav ul li a:hover {
+  color: gold;
+  transition: .4s;
+}
+
+.biography {
+  width: 100%;
+  height: 10%;
+  background-color: #101010;
+}
+
+.about {
+color: white;
+padding-top: 100px;
+
+}
+
+
+.about img {
+  position: relative;
+  left: 100px;
+}
+
+.about-text {
+  position: relative;
+  bottom: 450px;
+  right: 100px;
+  letter-spacing: 1px;
+  line-height: 28px;
+  font-size: 18px;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.about-text p {
+  position: relative;
+  top: 50px;
+  width: 550px;
+  margin-left: 670px;
+}
+
+.about-text a {
+  position: relative;
+  top: 100px;
+  margin-left: 670px;
+
+}
+
+button {
+  background-color: gold;
+  text-decoration: none;
+  border: 2px solid transparent;
+  font-weight: bold;
+  padding: 15px 18px;
+  border-radius: 30px;
+  transition: .4s;
+  margin-top: 105px;
+  color: #000;
+  margin-left: 670px;
+  position: relative;
+}
+
+button:hover {
+  transform: scale(1.2);
+}
+
+.color-edit {
+  padding-top: 100px;
+  color: gold;
+  text-align: center;
+}
+
+
+.achievements {
+  background: #191919;
+}
+
+.box {
+  display: inline-block;
+  align-items: center;
+  justify-content: space-around;
+  padding: 10px 36px;
+  padding-top: 100px;
+  background: #191919;
+}
+
+
+.card {
+  justify-content: center;
+  height: 400px;
+  width: 300px;
+  padding: 20px 35px;
+  background: #000;
+  border-radius: 20px;
+  margin: 15px;
+  position: relative;
+  overflow: hidden;
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+.card i {
+  font-size: 50px;
+  display: block;
+  text-align: center;
+  margin: 25px 0px;
+  color: gold;
+  margin-bottom: 50px;
+}
+
+
+.card p {
+  color: white;
+  font-size: 17px;
+  line-height: 20px;
+  letter-spacing: 1px;
+  margin-bottom: 65px;
+}
+
+.card a {
+  background-color: gold;
+  color: #000;
+  text-decoration: none;
+  border: 2px solid transparent;
+  font-weight: bold;
+  padding: 9px 22px;
+  border-radius: 30px;
+  transition: .4s;
+  margin-bottom: 20px;
+
+}
+
+.card a:hover {
+
+}
+
+footer {
+  position: relative;
+  width: 100%;
+  height: 400px;
+  background-color:#101010;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+}
+
+footer p:nth-child(1){
+  font-size: 30px;
+  color: gold;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+footer p:nth-child(2){
+  color: white;
+  font-size: 17px;
+  width: 500px;
+  text-align: center;
+  line-height: 26px;
+}
+
+.social {
+  display: flex;
+}
+
+.social a {
+  width: 45px;
+  height: 45px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: gold;
+  border-radius: 50%;
+  margin: 22px 10px;
+  color: #000;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.social a:hover {
+  transform: scale(1.3);
+  transition: .3s;
+}
+
+.end {
+  position: absolute;
+  color: gold;
+  bottom: 35px;
+  font-size: 17px;
+}
